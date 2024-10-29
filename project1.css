@@ -59,3 +59,13 @@ body{
     text-decoration: none;
     color: black;
 }
+a{
+    text-decoration: none;
+
+}
+.author img{
+    border-radius: 50%;
+}
+.author p{
+    font-weight: bold;
+}
